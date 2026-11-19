@@ -7,7 +7,11 @@
   "plugins": [
     {
       "name": "influx-atelier-studio",
-      "source": "./plugins/influx-atelier-studio",
+      "source": {
+        "source": "archive",
+        "url": "https://raw.githubusercontent.com/justlavra/influx-atelier-studio/main/releases/influx-atelier-studio-0.1.0.zip",
+        "sha256": "32a36f7e48ba183279b940d6889cd08172dd7a32ba0cbaef9073bfb0bce6c7ee"
+      },
       "description": "Your content studio in Claude: references, content bank, edit templates, videos."
     }
   ]
