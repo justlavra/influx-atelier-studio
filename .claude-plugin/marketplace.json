@@ -1,0 +1,14 @@
+{
+  "name": "influx-atelier",
+  "description": "Influx Atelier Studio",
+  "owner": {
+    "name": "Influx Atelier"
+  },
+  "plugins": [
+    {
+      "name": "influx-atelier-studio",
+      "source": "./plugins/influx-atelier-studio",
+      "description": "Your content studio in Claude: references, content bank, edit templates, videos."
+    }
+  ]
+}

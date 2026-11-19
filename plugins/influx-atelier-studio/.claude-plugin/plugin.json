@@ -1,0 +1,8 @@
+{
+  "name": "influx-atelier-studio",
+  "version": "0.1.0",
+  "description": "Influx Atelier Studio: your content studio in Claude. References, your content bank, edit templates and videos in your style.",
+  "author": {
+    "name": "Influx Atelier"
+  }
+}
