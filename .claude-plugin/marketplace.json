@@ -9,8 +9,8 @@
       "name": "influx-atelier-studio",
       "source": {
         "source": "archive",
-        "url": "https://raw.githubusercontent.com/justlavra/influx-atelier-studio/main/releases/influx-atelier-studio-0.1.0.zip",
-        "sha256": "32a36f7e48ba183279b940d6889cd08172dd7a32ba0cbaef9073bfb0bce6c7ee"
+        "url": "https://raw.githubusercontent.com/justlavra/influx-atelier-studio/main/releases/influx-atelier-studio-0.1.1.zip",
+        "sha256": "552195bbf88c93d4a795d51f27de3998cd1a4b063ba2d7411320763d7c823423"
       },
       "description": "Your content studio in Claude: references, content bank, edit templates, videos."
     }
